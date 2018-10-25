@@ -64,7 +64,7 @@
         <guava.version>19.0</guava.version>
         <rxjava.version>1.1.6</rxjava.version>
         <lombok.version>1.16.10</lombok.version>
-        <fastjson.version>1.2.22</fastjson.version>
+        <fastjson.version>1.2.31</fastjson.version>
         <strman.version>0.2.0</strman.version>
         <joda-time.version>2.9.4</joda-time.version>
 
