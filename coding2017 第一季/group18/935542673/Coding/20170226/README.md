@@ -1,6 +1,6 @@
 ##  2017编程提高社群作业：数据结构习题、实现简单的类似于struts的操作(2017.02.26)
 
-- ### [数据结构习题Coding](https://github.com/china-kook/coding2017/blob/master/group18/935542673/Coding/20170226/src/com/ikook/array/ArrayUtil.java) 
+- ### [数据结构习题Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170226/src/com/ikook/array/ArrayUtil.java) 
 
   - 实现给定一个整形数组,  对该数组的值进行置换。关键代码如下：
 
@@ -110,12 +110,12 @@
     }
     ```
 
-- ### [简单的类似于struts的操作](https://github.com/china-kook/coding2017/tree/master/group18/935542673/Coding/20170226/src/com/ikook/litestruts)
+- ### [简单的类似于struts的操作](https://github.com/china-kook/coding2017/tree/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170226/src/com/ikook/litestruts)
 
   使用 dom4j 的 SAXReader 类读取 struts.xml 文件，并对读取的文件中元素进行逐一处理。关键代码太多，基本整个类都是，点击本二级标题进行查看。
 
 - ### 数据结构习题以及 Struts 测试
 
-  - ##### [数据结构习题 Test Coding](https://github.com/china-kook/coding2017/blob/master/group18/935542673/Coding/20170226/junit/com/ikook/array/ArrayUtilTest.java)
+  - ##### [数据结构习题 Test Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170226/junit/com/ikook/array/ArrayUtilTest.java)
 
-  - ##### [Struts Test Coding](https://github.com/china-kook/coding2017/blob/master/group18/935542673/Coding/20170226/junit/com/ikook/litestruts/StrutsTest.java)
+  - ##### [Struts Test Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170226/junit/com/ikook/litestruts/StrutsTest.java)
