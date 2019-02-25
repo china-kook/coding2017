@@ -106,6 +106,6 @@
 
 - ### 数据结构习题以及多线程实现测试类
 
-  - ##### [数据结构习题 Test Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/junit/com/ikook/LinkedUtilTest.java)
+  - ##### [数据结构习题 Test Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/junit/com/ikook/linked/LinkedUtilTest.java)
 
   - ##### [Struts Test Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/junit/com/ikook/download/FileDownloaderTest.java)
