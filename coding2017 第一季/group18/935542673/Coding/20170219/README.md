@@ -78,6 +78,6 @@
    ```
    ​
 
-   #### [所有基本数据结构测试类](https://github.com/china-kook/coding2017/tree/master/group18/935542673/Coding/20170219/junit/com/ikook/basic_data_structure)
+   #### [所有基本数据结构测试类](https://github.com/china-kook/coding2017/tree/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170219/junit/com/ikook/basic_data_structure)
 
     说明：由于作业以实现基本的数据结构为主，则在实现单元测试时，只对正常情况进行了测试，一些异常情况并进行编写测试用例。
