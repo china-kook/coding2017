@@ -90,7 +90,7 @@
 
    - 实现要求生成新链表C，其元素为当前链表和list中元素的交集，且表C中的元素有依值递增有序排列
 
-    ```java
+      ```java
       for(int i=0;i<size;i++){
           for(int j=0;j<list.size;j++){
             if(this.get(i).equals(list.get(j))){
@@ -98,7 +98,7 @@
             }
           }
       }
-    ```
+      ```
 
 - ### [实现多线程下载](https://github.com/china-kook/coding2017/tree/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/src/com/ikook/download)
 
