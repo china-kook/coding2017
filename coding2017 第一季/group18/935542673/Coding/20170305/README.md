@@ -1,10 +1,10 @@
 ## 2017编程提高社群作业：数据结构习题、实现多线程下载(2017.03.05)
 
-- ### [数据结构习题Coding](https://github.com/china-kook/coding2017/blob/master/group18/935542673/Coding/20170305/src/com/ikook/linked/LinkedUtil.java)
+- ### [数据结构习题Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/src/com/ikook/linked/LinkedUtil.java)
 
   - 实现把链表逆置 例如链表为 3->7->10 , 逆置后变为 10->7->3。关键代码如下：
 
-    ```java
+ ```java
   for (MyIterator iterator = this.iterator(); iterator.hasNext(); ) {
         Object i = iterator.next();
         iterator.remove();
@@ -19,7 +19,7 @@
 
   - 实现删除一个单链表的前半部分 例如：list = 2->5->7->8 , 删除以后的值为 7->8。关键代码如下：
 
-     ```java
+ ```java
   for (int i = 0; i <= (this.size / 2); i++) {
         removeFirst();
   }
@@ -27,7 +27,7 @@
 
   - 实现从第i个元素开始， 删除length 个元素 ， 注意i从0开始
 
-    ```java
+  ```java
   for (int j = i; j < length + 1; j++) {
         this.remove(i);
   }
@@ -71,7 +71,7 @@
 
  - 实现删除表中所有值大于min且小于max的元素（若表中存在这样的元素）
 
-    ```java
+ ```java
   for(int i=0;i<size;i++){
         fun(node,min,max);
         node = node.next;
@@ -90,7 +90,7 @@
 
   - 实现要求生成新链表C，其元素为当前链表和list中元素的交集，且表C中的元素有依值递增有序排列
 
-    ```java
+ ```java
   for(int i=0;i<size;i++){
         for(int j=0;j<list.size;j++){
           if(this.get(i).equals(list.get(j))){
@@ -100,12 +100,12 @@
   }
   ```
 
-- ### [实现多线程下载](https://github.com/china-kook/coding2017/tree/master/group18/935542673/Coding/20170305/src/com/ikook/download)
+- ### [实现多线程下载](https://github.com/china-kook/coding2017/tree/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/src/com/ikook/download)
 
     尚未实现。其中涉及的一些知识还未学习。
 
 - ### 数据结构习题以及多线程实现测试类
 
-  - ##### [数据结构习题 Test Coding](https://github.com/china-kook/coding2017/blob/master/group18/935542673/Coding/20170305/junit/com/ikook/linked/LinkedUtilTest.java)
+  - ##### [数据结构习题 Test Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/junit/com/ikook/LinkedUtilTest.java)
 
-  - ##### [Struts Test Coding](https://github.com/china-kook/coding2017/blob/master/group18/935542673/Coding/20170305/junit/com/ikook/download/FileDownloaderTest.java)
+  - ##### [Struts Test Coding](https://github.com/china-kook/coding2017/blob/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170305/junit/com/ikook/download/FileDownloaderTest.java)
