@@ -1,6 +1,6 @@
 ##  2017编程提高社群作业：实现基本的数据结构(2017.02.19)
 
-####    [所有基本数据结构实现类及接口](https://github.com/china-kook/coding2017/tree/master/group18/935542673/Coding/20170219/src/com/ikook/basic_data_structure)
+####    [所有基本数据结构实现类及接口](https://github.com/china-kook/coding2017/tree/master/coding2017%20%E7%AC%AC%E4%B8%80%E5%AD%A3/group18/935542673/Coding/20170219/src/com/ikook/basic_data_structure)
 
 1. 实现了ArrayList、LinkedList、Queue(依靠LinkedList实现)、Stack(依靠ArrayList实现)
 
